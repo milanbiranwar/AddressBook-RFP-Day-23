@@ -8,5 +8,9 @@ namespace AddressBook_Day_23
 {
     internal class AddressBookUC1
     {
+        public static void AddressBook()
+        {
+
+        }
     }
 }
