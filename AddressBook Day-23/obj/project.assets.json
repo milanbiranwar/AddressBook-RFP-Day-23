@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milan\\source\\repos\\AddressBook Day-23\\AddressBook Day-23\\AddressBook Day-23.csproj",
-      "projectName": "AddressBook Day-23",
-      "projectPath": "C:\\Users\\milan\\source\\repos\\AddressBook Day-23\\AddressBook Day-23\\AddressBook Day-23.csproj",
+      "projectUniqueName": "C:\\Users\\milan\\source\\repos\\AddressBook Day-23\\AddressBook Day-23\\Day23AddressBook.csproj",
+      "projectName": "Day23AddressBook",
+      "projectPath": "C:\\Users\\milan\\source\\repos\\AddressBook Day-23\\AddressBook Day-23\\Day23AddressBook.csproj",
       "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\milan\\source\\repos\\AddressBook Day-23\\AddressBook Day-23\\obj\\",
       "projectStyle": "PackageReference",

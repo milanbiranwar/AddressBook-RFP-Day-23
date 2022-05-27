@@ -1,0 +1,5 @@
+C:\Users\milan\source\repos\AddressBook Day-23\AddressBook Day-23\obj\Debug\net6.0\Day9AddressBook.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\AddressBook Day-23\AddressBook Day-23\obj\Debug\net6.0\Day9AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\AddressBook Day-23\AddressBook Day-23\obj\Debug\net6.0\Day9AddressBook.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\AddressBook Day-23\AddressBook Day-23\obj\Debug\net6.0\Day9AddressBook.AssemblyInfo.cs
+C:\Users\milan\source\repos\AddressBook Day-23\AddressBook Day-23\obj\Debug\net6.0\Day9AddressBook.csproj.CoreCompileInputs.cache
