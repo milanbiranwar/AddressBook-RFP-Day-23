@@ -1,16 +1,26 @@
-﻿using System;
+﻿using Day23AddressBook;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day23AddressBook
+namespace AddressBook_Day_23
 {
-
-    public class AddressBook
+    internal class AddMultipleContact
     {
+        AddressBook ObjAdd = new AddressBook();
+        public void AddMultipleContact1()
+        {
+            Console.WriteLine("Enter the Number of Contact, you want to add");
+            int Num = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= Num; i++)
+            {
+                ObjAdd.AddNewContact();
+            }
+        }
 
-
+        
         public static List<Contact> People = new List<Contact>();
         public void AddNewContact()
         {
@@ -85,7 +95,6 @@ namespace Day23AddressBook
                 }
             }
         }
-
         public void DeleteContact(string firstName1)
         {
 
